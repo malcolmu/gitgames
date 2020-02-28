@@ -1,0 +1,1 @@
+{"version":3,"sources":["base/my-new-style.scss","base/my-new-style.css"],"names":[],"mappings":"AAAA;EACE,uBAAuB;ACCzB","file":"my-new-style.css","sourcesContent":["* {\n  border: 1px solid green;\n}\n","* {\n  border: 1px solid green;\n}\n"]}
